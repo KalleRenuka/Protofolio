@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I'm a **fresher AWS DevOps Engineer** with a pas
 
 - **Cloud**: AWS (EC2, S3, SNS), Docker, Kubernetes, Terraform
 - **Languages**: JavaScript, HTML, CSS
-- **DevOps**: Jenkins, Git, Docker, Kubernetes, Terraform
+- **DevOps**: Jenkins, Git, Docker, Kubernetes, Terraform, Jenkins
 - **Web Development**: Full Stack (HTML, CSS, JavaScript, Boostrap)
 
 ## 📚 Projects
