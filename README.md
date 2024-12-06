@@ -15,17 +15,14 @@ Welcome to my GitHub portfolio! I'm a **fresher AWS DevOps Engineer** with a pas
 ### 1. **AWS DevOps Automation Project**
 - **Description**: Automated infrastructure provisioning and deployment pipelines on AWS using EC2, S3, and Terraform.
 - **Technologies Used**: AWS, Terraform, Jenkins
-- **[View Project](https://github.com/KalleRenuka/your-repository-name)**
 
 ### 2. **Dockerized Web Application**
 - **Description**: Deployed a full-stack web application using Docker containers.
 - **Technologies Used**: Docker, Node.js, React
-- **[View Project](https://github.com/KalleRenuka/your-repository-name)**
 
 ### 3. **CI/CD Pipeline with Jenkins**
 - **Description**: Built a fully automated continuous integration and delivery pipeline using Jenkins for a web application.
 - **Technologies Used**: Jenkins, Git, Docker
-- **[View Project](https://github.com/KalleRenuka/your-repository-name)**
 
 ## 🌱 Current Learning & Goals
 - I’m currently learning **advanced AWS services**, **Terraform**, and **enhancing my Kubernetes knowledge**.
